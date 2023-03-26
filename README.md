@@ -17,4 +17,4 @@ About me
 
 Follow Me
 
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=DCEB35)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
