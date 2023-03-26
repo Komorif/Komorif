@@ -13,9 +13,9 @@ About me
 
 ![Flutter](https://img.shields.io/badge/-<Flutter>-<090909>?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
 
-![C#](https://img.shields.io/C#/-<C#>-<090909>?style=for-the-badge&logo=C#)
+![C#](https://img.shields.io/badge/-<C#>-<090909>?style=for-the-badge&logo=C#)
 
-![Python](https://img.shields.io/Python/-<Python>-<090909>?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/-<Python>-<090909>?style=for-the-badge&logo=Python)
 
 
 
