@@ -1,4 +1,4 @@
-[![Header](https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif)]
+![Header](https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif)
 
 About me
 
