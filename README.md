@@ -4,19 +4,18 @@ About me
 
 ## I am a novice programmer. I'm writing in python for now. Country of residence is Russia.
 
+
 ## Latest Youtube Videos
+
 
 ## Languages and Tools
 
-![Flutter](https://img.shields.io/badge/-<Flutter>-<090909>?style=for-the-badge&logo=appveyor)
 
-![C#](https://img.shields.io/C#/-<C#>-<090909>?
-style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![Flutter](https://img.shields.io/badge/-<Flutter>-<090909>?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
 
-![Python](https://img.shields.io/Python/-<Python>-<090909>?
-style=for-the-badge&logo=flutter&logoColor=47C5FB)
+![C#](https://img.shields.io/C#/-<C#>-<090909>?style=for-the-badge&logo=C#)
 
-
+![Python](https://img.shields.io/Python/-<Python>-<090909>?style=for-the-badge&logo=Python)
 
 
 
