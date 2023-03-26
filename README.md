@@ -4,9 +4,9 @@ About me
 
 ## I am a novice programmer. I'm writing in python for now. Country of residence is Russia.
 
-Latest Youtube Videos
+## Latest Youtube Videos
 
-Languages and Tools
+## Languages and Tools
 
 ![Flutter](https://img.shields.io/badge/-<Flutter>-<090909>?
 style=for-the-badge&logo=flutter&logoColor=47C5FB)
@@ -22,4 +22,6 @@ style=for-the-badge&logo=flutter&logoColor=47C5FB)
 
 
 
-Follow Me
+## Follow Me
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?
+style-for-the-badge&logo-Youtube&logoColor=FF0000(https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
