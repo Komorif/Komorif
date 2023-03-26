@@ -11,11 +11,11 @@ About me
 ## Languages and Tools
 
 
-![Flutter](https://img.shields.io/badge/-<Flutter>-<090909>?style=for-the-badge&logo=appveyor&logoColor=47C5FB)
+![Flutter](https://img.shields.io/badge/-<Flutter>-<090909>?style=for-the-badge&logo=appveyor&logoColor=E5D3FF)
 
 ![C#](https://img.shields.io/badge/-<C#>-<090909>?style=for-the-badge&logo=C#)
 
-![Python](https://img.shields.io/badge/-<Python>-<290c0b>?style=for-the-badge&logo=Python&logoColor=dceb35)
+![Python](https://img.shields.io/badge/-<Python>-<090909>?style=for-the-badge&logo=Python&logoColor=dceb35)
 
 
 
