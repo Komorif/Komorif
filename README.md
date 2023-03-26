@@ -1,4 +1,4 @@
-[![Header](https://github.com/Komorif/assets/work-computer.gif)]("https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg")
+[![Header](https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif)]
 
 About me
 
