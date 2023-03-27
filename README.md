@@ -20,7 +20,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-Follow Me
+## Follow Me
 
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
 
