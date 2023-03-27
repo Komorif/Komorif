@@ -10,6 +10,11 @@
 
 <img src="<title>https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif/<title>" alt="The Unlimited" width="180"/>
 
+
+
+<img src="https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif" height="32"/></title>
+
+
 ## 🛠️ Languages and Tools
 
 <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35"/> <img src="https://img.shields.io/badge/C Sharp-090909?style=for-the-badge&logo=C Sharp&logoColor=6A207B"/>
