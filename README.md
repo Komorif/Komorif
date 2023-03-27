@@ -10,8 +10,6 @@
 
 <img src="https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif" alt="The Unlimited" width="180"/>
 
-![Header](https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif)
-
 
 ## 🛠️ Languages and Tools
 
