@@ -8,11 +8,9 @@
 
 ● Country of residence is Russia.
 
-<img src="<title>https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif/<title>" alt="The Unlimited" width="180"/>
+<img src="https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif" alt="The Unlimited" width="180"/>
 
 
-
-<img src="title">https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif/>
 
 
 
@@ -29,7 +27,7 @@
 
 Follow Me
 
-<img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901"> 
+<img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901&url=https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqH"> 
 
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
 
