@@ -24,6 +24,8 @@
 
 ## Follow Me
 
+<a href="https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw"> <img src="https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901"/>
+
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
 
 [![YouTube2](https://img.shields.io/badge/-YouTube2-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
