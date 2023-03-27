@@ -12,7 +12,7 @@
 
 
 
-<img src="center">https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif</a>
+<img src="title">https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif/>
 
 
 
