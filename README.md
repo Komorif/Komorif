@@ -12,7 +12,7 @@
 
 ## 🛠️ Languages and Tools
 
-<img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35"/> <img src="https://img.shields.io/badge/C Sharp-090909?style=for-the-badge&logo=C Sharp&logoColor=6A207B"/>
+<img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35"/> <img src="https://img.shields.io/badge/C Sharp-090909?style=for-the-badge&logo=C Sharp&logoColor=6A207B"/> <img src="https://img.shields.io/badge/Aiogram-090909?style=for-the-badge&logo=Aiogram&logoColor=6A207B"/>
 
 ## 🏆 My Stats
 
