@@ -13,9 +13,13 @@
 
 ## 🛠️ Languages and Tools
 
+<img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35"/> <img src="https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=#239120&logoColor=DCEB35"/>
+
+
+
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35)
 
-![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C%2b%2b&logoColor=DCEB35)
+![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=#239120&logoColor=DCEB35)
 
 
 ## My Stats
