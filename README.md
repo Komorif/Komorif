@@ -18,6 +18,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Komorif)](https://git.io/streak-stats)
+
 Follow Me
 
 <img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901"> 
