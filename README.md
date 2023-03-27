@@ -2,13 +2,11 @@
 
 🤖 About me
 
-● I am a novice programmer. 😅
+● 😅 I am a novice programmer.
 
-● I'm writing in python for now.
+● 📈 I'm writing in python for now.
                                  
-● Country of residence is Russia.
-
-
+● 🏠 Country of residence is Russia.
 
 ## 🛠️ Languages and Tools
 
