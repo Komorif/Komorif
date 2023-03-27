@@ -1,6 +1,6 @@
 ﻿## My name is Alexander
 
-<img src="https://img.shields.io/badge/VK-0000FF?style=for-the-badge&logo=VK&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VK-40CFFF?style=for-the-badge&logo=VK&logoColor=FFFFFF"/>
 
 🤖 About me
 
