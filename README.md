@@ -28,6 +28,6 @@
 
 [![YouTube2](https://img.shields.io/badge/-YouTube2-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
 
-[![TelegramBot](https://img.shields.io/badge/-TelegramBot-090909?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/New_Vision_rus_en_bot)
+[![TelegramBot](https://img.shields.io/badge/-TelegramBot-090909?style=for-the-badge&logo=Telegram&logoColor=40CFFF)](https://t.me/New_Vision_rus_en_bot)
 
 [![Twitch](https://img.shields.io/badge/-Twitch-090909?style=for-the-badge&logo=YouTube&logoColor=B03AFF)](https://www.twitch.tv/komorifn)
