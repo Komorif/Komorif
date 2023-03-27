@@ -24,14 +24,15 @@
 
 ## Follow Me
 
-<a href="https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw"> <img src="https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901"/>
+<a href="https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw"> <img src="https://img.shields.io/badge/YouTube1-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901"/>
 
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
+<a href="https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg"> <img src="https://img.shields.io/badge/YouTube2-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901"/>
 
-[![YouTube2](https://img.shields.io/badge/-YouTube2-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
+<a href="https://t.me/New_Vision_rus_en_bot"> <img src="https://img.shields.io/badge/TelegramBotMain-090909?style=for-the-badge&logo=Telegram&logoColor=40CFFF"/>
 
-[![TelegramBotMain](https://img.shields.io/badge/-TelegramBotMain-090909?style=for-the-badge&logo=Telegram&logoColor=40CFFF)](https://t.me/New_Vision_rus_en_bot)
+<a href=""> <img src="https://img.shields.io/badge/TelegramBot2-090909?style=for-the-badge&logo=Telegram&logoColor=40CFFF"/>
 
-[![TelegramBot2](https://img.shields.io/badge/-TelegramBot2-090909?style=for-the-badge&logo=Telegram&logoColor=40CFFF)]()
 
-[![Twitch](https://img.shields.io/badge/-Twitch-090909?style=for-the-badge&logo=YouTube&logoColor=B03AFF)](https://www.twitch.tv/komorifn)
+<a href="https://www.twitch.tv/komorifn"> <img src="https://img.shields.io/badge/Twitch-090909?style=for-the-badge&logo=Twitch&logoColor=B03AFF"/>
+
+
