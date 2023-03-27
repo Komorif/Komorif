@@ -20,6 +20,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Komorif&theme=dark)](https://git.io/streak-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Komorif)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Follow Me
 
 <img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901"> 
