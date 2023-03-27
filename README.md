@@ -13,6 +13,8 @@
 
 ## 🛠️ Languages and Tools
 
+![Python](https://github.com/Komorif/Komorif/blob/main/assets/python.png)
+
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35)
 
 ![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C%2b%2b&logoColor=DCEB35)
