@@ -12,7 +12,9 @@
 
 
 
-<img src="https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif" height="32"/></title>
+<img src="center">https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif</a>
+
+
 
 
 ## 🛠️ Languages and Tools
