@@ -10,11 +10,6 @@
 
 <img src="https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif" alt="The Unlimited" width="180"/>
 
-
-
-
-
-
 ## 🛠️ Languages and Tools
 
 <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35"/> <img src="https://img.shields.io/badge/C Sharp-090909?style=for-the-badge&logo=C Sharp&logoColor=6A207B"/>
@@ -23,11 +18,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 Follow Me
 
-<img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901&url=https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqH"> 
+<img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901"> 
 
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FE1901)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
 
