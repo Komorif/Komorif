@@ -8,7 +8,7 @@
                                  
 ● Country of residence is Russia.
 
-<img src="https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif" alt="The Unlimited" width="180"/>
+
 
 ## 🛠️ Languages and Tools
 
