@@ -4,10 +4,11 @@
 
 ● I am a novice programmer. 😅
 
-● I'm writing in python for now. <img src="https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif" alt="The Unlimited" width="180"/>
+● I'm writing in python for now.
                                  
 ● Country of residence is Russia.
 
+<img src="https://github.com/Komorif/Komorif/blob/main/assets/work-computer.gif" alt="The Unlimited" width="180"/>
 
 ## 🛠️ Languages and Tools
 
