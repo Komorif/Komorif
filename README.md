@@ -1,6 +1,6 @@
 ﻿## My name is Alexander
 
-## 🤖 About me
+🤖 About me
 
 ● I am a novice programmer. 😅
 
