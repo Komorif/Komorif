@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">About me target="_blank"></a>
+<h1 align="center">About me</a>
 
 🤖 About me
 
