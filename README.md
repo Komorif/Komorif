@@ -5,7 +5,6 @@
 ---
 
 <h3 🤖 About me</a>
-
 <h5 ● 😅 I am a novice programmer.</a>
 <h5 ● 📈 I'm writing in python for now.</a>
 <h5 ● 🏠 Country of residence is Russia.</a>
