@@ -10,6 +10,12 @@
 <h5 ● 📈 I'm writing in python for now.</a>
 <h5 ● 🏠 Country of residence is Russia.</a>
 
+● 😅 I am a novice programmer.
+
+● 📈 I'm writing in python for now.
+                                 
+● 🏠 Country of residence is Russia.
+
 
 
 
