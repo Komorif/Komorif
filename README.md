@@ -4,15 +4,14 @@
 
 ---
 
-<h1 About me</a>
+<h3 🤖 About me</a>
 
-🤖 About me
+<h5 ● 😅 I am a novice programmer.</a>
+<h5 ● 📈 I'm writing in python for now.</a>
+<h5 ● 🏠 Country of residence is Russia.</a>
 
-● 😅 I am a novice programmer.
 
-● 📈 I'm writing in python for now.
-                                 
-● 🏠 Country of residence is Russia.
+
 
 🛠️ Languages and Tools
 
