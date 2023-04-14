@@ -1,10 +1,8 @@
 ﻿My name is Alexander
 
+[![VK](https://img.shields.io/badge/-VK-40CFFF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/komorilfg)
 
-
-[![VK](https://play-lh.googleusercontent.com/GntsGclzheXXASOhjSF1lCOPOznM_OARDObiTW_NQZtpYVwPQr_0ARyRyiXB0_OocmI&alt=VK&width=25)](https://vk.com/komorilfg)
-
-<img src="https://play-lh.googleusercontent.com/GntsGclzheXXASOhjSF1lCOPOznM_OARDObiTW_NQZtpYVwPQr_0ARyRyiXB0_OocmI" width="25"/> (https://vk.com/komorilfg)
+<img src="https://play-lh.googleusercontent.com/GntsGclzheXXASOhjSF1lCOPOznM_OARDObiTW_NQZtpYVwPQr_0ARyRyiXB0_OocmI" alt="VK" width="25"/> [VK](https://vk.com/komorilfg)
 
 * 😅 I am a novice programmer.
 * 📈 I'm writing in python for now.                          
@@ -23,16 +21,14 @@
 
 ## My contacts
 
-<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Discord" width="25"/> [komori#7641](https://discordapp.com/channels/@me/278186795618009090/)
+* <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Discord" width="25"/> [komori#7641](https://discordapp.com/channels/@me/278186795618009090/)
 
+* <img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> [TelegramBot main](https://t.me/New_Vision_rus_en_bot)
 
+* <img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> [TelegramBot 2](https://t.me/New_Vision_rus_en_bot)
 
-<img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> [TelegramBot main](https://t.me/New_Vision_rus_en_bot)
+* <img src="https://www.sostav.ru/images/news/2019/09/30/7ldtxaxw.jpg" alt = "Twitch" width = "25"/> [Twitch](https://www.twitch.tv/komorifn)
 
-<img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> [TelegramBot 2](https://t.me/New_Vision_rus_en_bot)
+* <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/> [YouTube 1](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
 
-<img src="https://www.sostav.ru/images/news/2019/09/30/7ldtxaxw.jpg" alt = "Twitch" width = "25"/> [Twitch](https://www.twitch.tv/komorifn)
-
-<img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/> [YouTube 1](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
-
-<img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/> [YouTube 2](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
+* <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/> [YouTube 2](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
