@@ -19,12 +19,6 @@
 
 ---
 
-<h3>📈 Activity Graph:</h3>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Komorif&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 <h3>My contacts:</h3>
 
 [![Discord](https://img.shields.io/badge/-Discord-0077FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/channels/@me/278186795618009090/)
