@@ -4,7 +4,7 @@ My name is Alexander
 😅 I am a novice programmer. 📈 I'm writing in python for now. 🏠 Country of residence is Russia.
 
 [![VK](https://img.shields.io/badge/-VK-40CFFF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/komorilfg)
-[![Discord](https://img.shields.io/badge/-Discord-40CFFF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/996144843287957514/)
+[![Discord](https://img.shields.io/badge/-Discord-0000FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/996144843287957514/)
 
 ## 🛠️ Languages and Tools
 
