@@ -7,7 +7,7 @@ My name is Alexander 😅 I am a novice programmer. 📈 I'm writing in python f
 
 ---
 
-<h4 🛠️ Languages and Tools:
+<h5 🛠️ Languages and Tools:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuloSois&langs_count=6&layout=compact&theme=dark" align="right">
 
@@ -19,7 +19,7 @@ My name is Alexander 😅 I am a novice programmer. 📈 I'm writing in python f
 
 ---
 
-<h4 My contacts:
+<h5 My contacts:
 
 * <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Discord" width="25"/> [komori#7641](https://discordapp.com/channels/@me/278186795618009090/)
 * <img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> [TelegramBot main](https://t.me/New_Vision_rus_en_bot)
