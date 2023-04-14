@@ -1,7 +1,7 @@
 ﻿My name is Alexander
 
 [![VK](https://img.shields.io/badge/-VK-40CFFF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/komorilfg)
-[![Telegram](https://img.shields.io/badge/-Telegram-40CFFF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://vk.com/komorilfg)
+[![Discord](https://img.shields.io/badge/-Discord-40CFFF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)]()
 
 
 <h4 align="center"> 😅 I am a novice programmer.
