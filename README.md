@@ -4,8 +4,8 @@
 
 
 <h4 align="right"> 😅 I am a novice programmer." >
-* 📈 I'm writing in python for now.                          
-* 🏠 Country of residence is Russia.
+<h4 align="right"> 📈 I'm writing in python for now." >
+<h4 align="right"> 🏠 Country of residence is Russia." >
 
 
 ## 🛠️ Languages and Tools
