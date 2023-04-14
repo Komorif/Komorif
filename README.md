@@ -1,6 +1,6 @@
 ﻿My name is Alexander
 
-<img src="https://play-lh.googleusercontent.com/GntsGclzheXXASOhjSF1lCOPOznM_OARDObiTW_NQZtpYVwPQr_0ARyRyiXB0_OocmI" alt="VK" width="25"/> [VK](https://vk.com/komorilfg)
+<img src="https://play-lh.googleusercontent.com/GntsGclzheXXASOhjSF1lCOPOznM_OARDObiTW_NQZtpYVwPQr_0ARyRyiXB0_OocmI" alt="VK" width="25"/> (https://vk.com/komorilfg)
 
 * 😅 I am a novice programmer.
 * 📈 I'm writing in python for now.                          
