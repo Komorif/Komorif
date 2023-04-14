@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark" align="right">
 
-<h3>🛠️ Languages and Tools:</h3> 
+<h3>🛠️ Languages and Tools:</h3>
 
 * Studying <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="25"/> & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=".py" width="25"/> by various courses and the [Official Documentation](https://learn.microsoft.com/ru-ru/dotnet/csharp/).
 
@@ -19,7 +19,13 @@
 
 ---
 
-<h3>My contacts:</h3> 
+<h3>График активности</h3>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<h3>My contacts:</h3>
 
 [![](https://img.shields.io/badge/--0077FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://vk.com/komorilfg)
 
