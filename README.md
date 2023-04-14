@@ -28,10 +28,10 @@
 <h3>My contacts:</h3>
 
 [![Discord](https://img.shields.io/badge/-Discord-0077FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/channels/@me/278186795618009090/)
-[![TelegramBot](https://img.shields.io/badge/-TelegramBot-0077FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://t.me/New_Vision_rus_en_bot)
-[![Twitch](https://img.shields.io/badge/-Twitch-0077FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://www.twitch.tv/komorifn)
-[![Youtube 1](https://img.shields.io/badge/-Discord-0077FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
-[![Youtube 2](https://img.shields.io/badge/-Discord-0077FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
+[![TelegramBot](https://img.shields.io/badge/-TelegramBot-0077FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/New_Vision_rus_en_bot)
+[![Twitch](https://img.shields.io/badge/-Twitch-0077FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)](https://www.twitch.tv/komorifn)
+[![Youtube 1](https://img.shields.io/badge/-Discord-0077FF?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
+[![Youtube 2](https://img.shields.io/badge/-Discord-0077FF?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
 
 
 * <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" alt="Discord" width="25"/> [komori#7641](https://discordapp.com/channels/@me/278186795618009090/)
