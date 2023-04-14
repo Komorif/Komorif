@@ -3,9 +3,9 @@
 [![VK](https://img.shields.io/badge/-VK-40CFFF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/komorilfg)
 
 
-<h4 align="right"> 😅 I am a novice programmer.
-<h4 align="right"> 📈 I'm writing in python for now.
-<h4 align="right"> 🏠 Country of residence is Russia.
+<h4 align="center"> 😅 I am a novice programmer.
+<h4 align="center"> 📈 I'm writing in python for now.
+<h4 align="center"> 🏠 Country of residence is Russia.
 
 
 ## 🛠️ Languages and Tools
