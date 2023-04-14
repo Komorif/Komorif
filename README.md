@@ -31,6 +31,6 @@
 
 <img src="https://www.sostav.ru/images/news/2019/09/30/7ldtxaxw.jpg" alt = "Twitch" width = "25"/> [Twitch](https://www.twitch.tv/komorifn)
 
-
 <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/> [YouTube 1](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
+
 <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/> [YouTube 2](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
