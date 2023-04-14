@@ -18,15 +18,6 @@
 
 * Studying <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="25"/> & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=".py" width="25"/> by various courses and the [Official Documentation](https://docs.microsoft.com/pt-br/dotnet/csharp/).
 
-
-
-
-
-
-* Studying C# & python by various courses and the Official Documentation.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 * My current and future projects in python C# and other languages can be viewed in the repositories
 
 
