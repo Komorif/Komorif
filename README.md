@@ -21,7 +21,7 @@
 
 <h3>My contacts:</h3>
 
-[![TelegramBot](https://img.shields.io/badge/-TelegramBotMain-0077FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/New_Vision_rus_en_bot)
+[![TelegramBot](https://img.shields.io/badge/-TelegramBotMain-2BA6E1?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/New_Vision_rus_en_bot)
 [![Twitch](https://img.shields.io/badge/-Twitch-0077FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)](https://www.twitch.tv/komorifn)
 [![Youtube 1](https://img.shields.io/badge/-Youtube1-0077FF?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
 [![Youtube 2](https://img.shields.io/badge/-Youtube2-0077FF?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
