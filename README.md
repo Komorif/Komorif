@@ -14,7 +14,7 @@
 🛠️ Languages and Tools
 
 ---
-● Studying C# & python by various courses and the Official Documentation.                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+● Studying C# & python by various courses and the Official Documentation.                                   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ● My current and future projects in python C# and other languages can be viewed in the repositories
 
 
