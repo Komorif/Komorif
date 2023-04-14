@@ -21,7 +21,7 @@ My name is Alexander 😅 I am a novice programmer. 📈 I'm writing in python f
 
 * <img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> [TelegramBot main](https://t.me/New_Vision_rus_en_bot)
 
-* <img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> [TelegramBot 2](https://t.me/New_Vision_rus_en_bot)
+* <img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> [TelegramBot 2]()
 
 * <img src="https://www.sostav.ru/images/news/2019/09/30/7ldtxaxw.jpg" alt = "Twitch" width = "25"/> [Twitch](https://www.twitch.tv/komorifn)
 
