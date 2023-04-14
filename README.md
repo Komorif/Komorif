@@ -4,6 +4,7 @@
 
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/komorilfg)
 [![Discord](https://img.shields.io/badge/-Discord-5761F6?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/996144843287957514/)
+
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark" align="right">
