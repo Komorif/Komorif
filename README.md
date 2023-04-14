@@ -14,6 +14,9 @@
 🛠️ Languages and Tools
 
 ---
+● Studying C# & python by various courses and the Official Documentation.                           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+● My current and future projects in python C# and other languages can be viewed in the repositories
+
 
 <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35"/> <img src="https://img.shields.io/badge/Aiogram-090909?style=for-the-badge&logo=Aiogram&logoColor=6A207B"/> <img src="https://img.shields.io/badge/C Sharp-090909?style=for-the-badge&logo=C Sharp&logoColor=6A207B"/>
 
@@ -21,7 +24,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
