@@ -35,7 +35,7 @@
 
 * <img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "30"/> [TelegramBot 2](https://t.me/New_Vision_rus_en_bot)
 
-* <img src="https://e7.pngegg.com/pngimages/501/528/png-clipart-twitch-round-logo-tech-companies.png" alt = "Twitch" width = "30"/> [Twitch](https://www.twitch.tv/komorifn)
+* <img src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk4Mi1kMS0xOC5wbmc.png?s=6agGyidKgFDV-uBuzXfRAcK66wJoet2RE2exoQ0kE-k" alt = "Twitch" width = "30"/> [Twitch](https://www.twitch.tv/komorifn)
 
 
 * <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "30"/> [YouTube 1](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
