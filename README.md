@@ -2,9 +2,8 @@
 
 [![VK](https://img.shields.io/badge/-VK-40CFFF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/komorilfg)
 
-<img src="https://play-lh.googleusercontent.com/GntsGclzheXXASOhjSF1lCOPOznM_OARDObiTW_NQZtpYVwPQr_0ARyRyiXB0_OocmI" alt="VK" width="25"/> [VK](https://vk.com/komorilfg)
 
-* 😅 I am a novice programmer.
+<h1 align="right"> 😅 I am a novice programmer." >
 * 📈 I'm writing in python for now.                          
 * 🏠 Country of residence is Russia.
 
