@@ -7,7 +7,9 @@ My name is Alexander 😅 I am a novice programmer. 📈 I'm writing in python f
 
 ---
 
-<h5 🛠️ Languages and Tools:
+<h4 align="left">🛠️ Languages and Tools:</a> 
+
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuloSois&langs_count=6&layout=compact&theme=dark" align="right">
 
