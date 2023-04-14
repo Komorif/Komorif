@@ -7,7 +7,7 @@ My name is Alexander 😅 I am a novice programmer. 📈 I'm writing in python f
 
 ---
 
-<h2>🛠️ Languages and Tools:</h2> 
+<h3>🛠️ Languages and Tools:</h3> 
 
 
 
