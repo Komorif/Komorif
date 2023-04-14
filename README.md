@@ -26,5 +26,4 @@
 [![Youtube 1](https://img.shields.io/badge/-Youtube1-FE0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC9EJAIYe4sL0iGB_huHTqHw)
 [![Youtube 2](https://img.shields.io/badge/-Youtube2-FE0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCb2GlPOgqB_VpWTvQM_dzKg)
 
-
 <img src="https://w7.pngwing.com/pngs/480/819/png-transparent-telegram-icon-telegram-logo-telegram-app-social-icon-messaging-messenger.png" alt = "TelegramBot" width = "25"/> <img src="https://www.sostav.ru/images/news/2019/09/30/7ldtxaxw.jpg" alt = "Twitch" width = "25"/> <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/> <img src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" alt = "Youtube" width = "25"/>
