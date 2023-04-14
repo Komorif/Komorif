@@ -6,7 +6,8 @@
 [![Discord](https://img.shields.io/badge/-Discord-5761F6?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/996144843287957514/)
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuloSois&langs_count=6&layout=compact&theme=dark" align="right">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komori&langs_count=6&layout=compact&theme=dark" align="right">
 
 <h3>🛠️ Languages and Tools:</h3> 
 
