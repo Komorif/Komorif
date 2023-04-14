@@ -3,7 +3,7 @@
 [![VK](https://img.shields.io/badge/-VK-40CFFF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/komorilfg)
 
 
-<h1 align="right"> 😅 I am a novice programmer." >
+<h4 align="right"> 😅 I am a novice programmer." >
 * 📈 I'm writing in python for now.                          
 * 🏠 Country of residence is Russia.
 
