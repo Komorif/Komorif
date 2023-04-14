@@ -19,7 +19,7 @@
 
 ---
 
-<h3>График активности:</h3>
+<h3>Activity Graph:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Komorif&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
