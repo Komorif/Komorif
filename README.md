@@ -1,6 +1,6 @@
 ﻿### Hi! My name is Alexander
 
-😅 I am a beginner programmer. 📈 So far, I write in python and C#.
+😅 I am a beginner programmer. 📈 So far, I write in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" and <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="25"/>.
 
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFFFFF)](https://vk.com/komorilfg)
 [![Discord](https://img.shields.io/badge/-Discord-5761F6?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/996144843287957514/)
