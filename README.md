@@ -11,7 +11,7 @@
 
 <h3>🛠️ Languages and Tools:</h3>
 
-* Studying <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=".py" width="25"/> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt=".py" width="25"/> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt=".py" width="25"/> <img src="https://seeklogo.com/images/D/django-logo-F46C1DD95E-seeklogo.com.png" alt=".py" width="25"/> by various courses and the [Official Documentation](https://learn.microsoft.com/ru-ru/dotnet/csharp/).
+* Studying <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=".py" width="25"/> <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt=".py" width="25"/> <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt=".py" width="25"/> <img src="https://seeklogo.com/images/D/django-logo-182231C1BB-seeklogo.com.png" alt=".py" width="25"/> by various courses and the [Official Documentation](https://learn.microsoft.com/ru-ru/dotnet/csharp/).
 
 * My current and future projects in python C# and other languages can be viewed in the repositories
 
