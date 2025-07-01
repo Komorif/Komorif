@@ -8,16 +8,20 @@
 ---
 <h3>🛠️ Навыки</h3>
 
-* Backend: Python (Django)
-* Data: PostgreSQL, Microsoft SQL Server
-* DevOps: Git, Docker, Linux
-* Frontend: HTML, CSS
+* **Backend**: Python (Django)
+* **Data**: PostgreSQL, Microsoft SQL Server
+* **DevOps**: Git, Docker, Linux
+* **Frontend**: HTML, CSS
 
-* WorkFlow: GitHub, GitLab;
+<br>
 
+* **WorkFlow**: GitHub, GitLab;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark">
+
 ---
+
+<br>
 
 <h3>My contacts:</h3>
 
