@@ -28,7 +28,7 @@
 <br><br>
 - [Website for college](https://github.com/Komorif/college_blog) - Сайт для написания всех полезных гайдов для студентов моей группы и меня 
 <br><br>
-- [Wrbsite redauramovies](https://github.com/Komorif/f) - Сайт для просмотра сериалов, аниме и фильмов
+- [Website redauramovies](https://github.com/Komorif/website_redauramovies) - Сайт для просмотра сериалов, аниме и фильмов
 
 ---
 
