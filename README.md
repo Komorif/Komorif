@@ -26,7 +26,7 @@
 - [Telegram bot](https://github.com/Komorif/Telegram_bot_pythonanywhere) - Телеграмм бот с использованием inline клавиатур
 для скачивания моих игр и просмотра полезной информации
 <br><br>
-- [Website for college](https://github.com/Komorif/college_blog) - Сайт для написания всех полезных гайдов для студентов моей группы и меня 
+- [Website for college](https://github.com/Komorif/college_blog) - [Сайт](https://komorif.github.io/college_blog/) для написания всех полезных гайдов для студентов моей группы и меня 
 <br><br>
 - [Website redauramovies](https://github.com/Komorif/website_redauramovies) - Сайт для просмотра сериалов, аниме и фильмов
 
