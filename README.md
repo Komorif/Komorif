@@ -11,15 +11,12 @@
 
 <h3>🛠️ Навыки</h3>
 
-Backend: Python (Django)
+* Backend: Python (Django)
+* Data: PostgreSQL, Microsoft SQL Server
+* DevOps: Git, Docker, Linux
+* Frontend: HTML, CSS
 
-Data: PostgreSQL, Microsoft SQL Server
-
-DevOps: Git, Docker, Linux
-
-Frontend: HTML, CSS
-
-WorkFlow: GitHub, GitLab;
+* WorkFlow: GitHub, GitLab;
 
 * Studying <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=".py" width="25"/> by various courses and the [Official Documentation](https://learn.microsoft.com/ru-ru/dotnet/csharp/).
 
