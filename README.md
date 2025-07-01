@@ -13,15 +13,12 @@
 * **DevOps**: Git, Docker, Linux
 * **Frontend**: HTML, CSS
 
+<br>
+
 * **WorkFlow**: GitHub, GitLab;
 
 <h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark"></h3>
 
 ---
 
-
-
-<h3>My contacts:</h3>
-
-[![TelegramBot](https://img.shields.io/badge/-TelegramBotMain-2BA6E1?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/New_Vision_rus_en_bot)
-[![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=FFFFFF)](https://www.twitch.tv/komorifn)
+<br>
