@@ -8,6 +8,8 @@
 ---
 <h3>🛠️ Skills</h3>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark" align="right">
+
 * **Backend**: Python (Django)
 * **Data**: PostgreSQL, Microsoft SQL Server
 * **DevOps**: Git, Docker, Linux
@@ -16,9 +18,6 @@
 <br>
 
 * **WorkFlow**: GitHub, GitLab;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark" align="right">
-
 
 ---
 
