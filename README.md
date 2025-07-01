@@ -19,6 +19,19 @@
 
 <h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark"></h3>
 
+
 ---
 
 <br>
+
+<a name="projects"></a>
+<h3>🛠️ Projects</h3>
+
+- [Telegram bot](https://github.com/Komorif/Telegram_bot_pythonanywhere) - Телеграмм бот с использованием inline клавиатур
+для скачивания моих игр и просмотра полезной информации
+<br><br>
+- [Website for college](https://github.com/Komorif/college_blog) - Сайт для написания всех полезных гайдов для студентов моей группы и меня 
+<br><br>
+- [Wrbsite redauramovies](https://github.com/Komorif/f) - Сайт для просмотра сериалов, аниме и фильмов
+
+---
