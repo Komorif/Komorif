@@ -9,13 +9,19 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark" align="right">
 
-<h3>🛠️ Languages and Tools:</h3>
+<h3>🛠️ Навыки</h3>
+
+Backend: Python (Django) <img src="https://img.shields.io/badge/C%20Sharp-090909?style=for-the-badge&logo=CSharp&logoColor=6A207B"/> <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35"/> <img src="https://img.shields.io/badge/Aiogram-090909?style=for-the-badge&logo=Aiogram&logoColor=6A207B"/>
+
+Data: PostgreSQL, Microsoft SQL Server
+DevOps: Git, Docker, Linux
+Frontend: HTML, CSS
+
+WorkFlow: GitHub, GitLab;
 
 * Studying <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=".py" width="25"/> by various courses and the [Official Documentation](https://learn.microsoft.com/ru-ru/dotnet/csharp/).
 
-* My current and future projects in python C# and other languages can be viewed in the repositories
 
-<img src="https://img.shields.io/badge/C%20Sharp-090909?style=for-the-badge&logo=CSharp&logoColor=6A207B"/> <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=DCEB35"/> <img src="https://img.shields.io/badge/Aiogram-090909?style=for-the-badge&logo=Aiogram&logoColor=6A207B"/>
 
 ---
 
