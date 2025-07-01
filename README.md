@@ -12,7 +12,9 @@
 * **Data**: PostgreSQL, Microsoft SQL Server
 * **DevOps**: Git, Docker, Linux
 * **Frontend**: HTML, CSS
+
 <br>
+
 * **WorkFlow**: GitHub, GitLab;
 
 <h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark"></h3>
