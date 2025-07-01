@@ -22,8 +22,6 @@
 
 ---
 
-<br>
-
 <a name="projects"></a>
 <h3>🛠️ Projects</h3>
 
