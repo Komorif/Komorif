@@ -17,11 +17,6 @@
 * Frontend: HTML, CSS
 
 * WorkFlow: GitHub, GitLab;
-
-* Studying <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt=".py" width="25"/> by various courses and the [Official Documentation](https://learn.microsoft.com/ru-ru/dotnet/csharp/).
-
-
-
 ---
 
 <h3>My contacts:</h3>
