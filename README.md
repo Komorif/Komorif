@@ -8,7 +8,7 @@
 ---
 <h3>🛠️ Skills</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komorif&langs_count=6&layout=compact&theme=dark" align="left">
 
 * **Backend**: Python (Django)
 * **Data**: PostgreSQL, Microsoft SQL Server
