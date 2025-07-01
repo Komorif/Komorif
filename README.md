@@ -1,4 +1,4 @@
-﻿﻿### Hi! My name is Alexander
+﻿### Hi! My name is Alexander
 
 😅 I am a beginner programmer. 📈 So far, I write in python, html, css, C#.
 
@@ -20,7 +20,7 @@
 
 ---
 
-<h3>🛠️ Projects</h3>
+<h3>🧠 Projects</h3>
 
 - [Telegram bot](https://github.com/Komorif/Telegram_bot_pythonanywhere) - Телеграмм бот с использованием inline клавиатур
 для скачивания моих игр и просмотра полезной информации
@@ -31,7 +31,7 @@
 
 ---
 
-<h3>🛠️ Education</h3>
+<h3>🦾 Education</h3>
 <br>
 
 <h4 align="center">Сертификаты</h3>
