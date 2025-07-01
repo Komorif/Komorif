@@ -6,14 +6,12 @@
 [![Discord](https://img.shields.io/badge/-Discord-5761F6?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discordapp.com/users/996144843287957514/)
 
 ---
-<h3>🛠️ Навыки</h3>
+<h3>🛠️ Skills</h3>
 
 * **Backend**: Python (Django)
 * **Data**: PostgreSQL, Microsoft SQL Server
 * **DevOps**: Git, Docker, Linux
 * **Frontend**: HTML, CSS
-
-<br>
 
 * **WorkFlow**: GitHub, GitLab;
 
@@ -21,7 +19,7 @@
 
 ---
 
-<br>
+
 
 <h3>My contacts:</h3>
 
