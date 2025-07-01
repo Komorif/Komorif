@@ -12,8 +12,11 @@
 <h3>🛠️ Навыки</h3>
 
 Backend: Python (Django)
+
 Data: PostgreSQL, Microsoft SQL Server
+
 DevOps: Git, Docker, Linux
+
 Frontend: HTML, CSS
 
 WorkFlow: GitHub, GitLab;
